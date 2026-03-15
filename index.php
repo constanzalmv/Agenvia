@@ -18,9 +18,10 @@ function mensajeEmergente($texto) {
         .menu {padding: 15px; margin-bottom: 20px;}
         .menu a {padding: 10px 20px; margin-right: 10px; border-radius: 5px;
         }
-        .menu a:hover {background: #777;}
+        .menu a:hover {background: gray;}
     </style>
 </head>
+
 <body>
 
     <div class="menu">
